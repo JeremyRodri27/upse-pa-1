@@ -1,4 +1,4 @@
- # Proyecto de Programacion Avanzada 1 - Version A
+# Proyecto Final de Programacion Avanzada 1 (PA-1)
 
 Práctica de Programacion Avanzada 1 - UPSE
 

@@ -3,7 +3,7 @@
 Práctica de Programacion Avanzada 1 - UPSE
 
 
-Luis Torres
+Jeremy Rodriguez
 
 
 # Cómo ejecutar este proyecto
